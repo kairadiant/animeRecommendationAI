@@ -38,6 +38,14 @@ This Python script utilizes web scraping techniques to provide anime recommendat
   3. Run the script and input the desired anime title when prompted.
   4. The script will output the information of the input anime and provide a list of similar anime recommendations.
 
-Feel free to explore and modify the script to enhance its functionality or integrate it into other applications. For any issues or queries, please contact the developer.
+### Contribute
+
+Contributions are welcome! If you find issues or have suggestions for improvements, please create an issue or submit a pull request.
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Thank you for visiting the Basic Webpage repository! Enjoy exploring and happy coding!
 
 **Note:** This script relies on web scraping, and changes in the structure of the MyAnimeList website may affect its functionality.
