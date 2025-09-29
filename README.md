@@ -46,6 +46,6 @@ Contributions are welcome! If you find issues or have suggestions for improvemen
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Thank you for visiting the Basic Webpage repository! Enjoy exploring and happy coding!
+Thank you for visiting! Enjoy exploring and happy coding!
 
 **Note:** This script relies on web scraping, and changes in the structure of the MyAnimeList website may affect its functionality.
